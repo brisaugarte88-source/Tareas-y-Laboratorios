@@ -1,28 +1,39 @@
-Tareas-y-Laboratorios
-Laboratorio 2 - Sistema Académico
-Descripción
-Aplicación desarrollada en C# que permite registrar datos de un estudiante, calcular su promedio académico, aplicar un bono basado en los dos últimos dígitos del carnet y clasificar su rendimiento académico.
+# Tareas-y-Laboratorios
 
-Funcionalidades
-Registro de datos del estudiante.
+## Laboratorio 2 - Sistema Académico
 
-Validación de notas.
+### Descripción
 
-Cálculo del promedio original.
+Aplicación desarrollada en C# que permite registrar los datos de un estudiante, validar sus notas, calcular su promedio académico, aplicar un bono basado en los dos últimos dígitos del carnet y clasificar automáticamente el rendimiento académico del estudiante.
 
-Cálculo del bono académico (7% de los dos últimos dígitos del carnet).
+---
 
-Obtención del promedio final.
+## Funcionalidades
 
-Clasificación automática:
+* Registro de datos del estudiante.
+* Validación de notas ingresadas.
+* Cálculo del promedio original.
+* Cálculo del bono académico (7% de los dos últimos dígitos del carnet).
+* Obtención del promedio final.
+* Clasificación automática del rendimiento académico.
 
-Excelente
-Bueno
-Regular
-Observado
-Lenguaje utilizado
-C#
-Comunidad Visual Studio
-Autor
-Brisa Ugarte
+### Clasificaciones
 
+* Excelente
+* Bueno
+* Regular
+* Observado
+
+---
+
+## Lenguaje y Herramientas Utilizadas
+
+* C#
+* Visual Studio Community
+* GitHub
+
+---
+
+## Autor
+
+**Brisa Ugarte**
